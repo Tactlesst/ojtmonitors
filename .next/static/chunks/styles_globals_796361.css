@@ -404,6 +404,10 @@ img, video {
   margin-right: 1rem;
 }
 
+.mt-2 {
+  margin-top: .5rem;
+}
+
 .mt-4 {
   margin-top: 1rem;
 }
@@ -701,6 +705,11 @@ img, video {
   line-height: 2rem;
 }
 
+.text-3xl {
+  font-size: 1.875rem;
+  line-height: 2.25rem;
+}
+
 .text-5xl {
   font-size: 3rem;
   line-height: 1;
@@ -723,6 +732,11 @@ img, video {
 .text-blue-800 {
   --tw-text-opacity: 1;
   color: rgb(30 64 175 / var(--tw-text-opacity, 1));
+}
+
+.text-gray-600 {
+  --tw-text-opacity: 1;
+  color: rgb(75 85 99 / var(--tw-text-opacity, 1));
 }
 
 .text-gray-800 {
